@@ -47,7 +47,7 @@ export default class App extends Component {
                 {/* <h1 id="tabelLabel" >Weather forecast</h1>
                 <p>This component demonstrates fetching data from the server.</p>
                 {contents} */}
-                {process.env.TEST_SCORE == "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" ? "Test Passed" : "Test Failed"}
+                {process.env.TEST_SECRET == "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" ? "Test Passed" : "Test Failed"}
 
             </div>
         );
