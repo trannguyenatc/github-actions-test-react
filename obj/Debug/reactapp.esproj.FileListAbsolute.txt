@@ -1,0 +1,2 @@
+C:\GitHub Projects\github-actions-test\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\GitHub Projects\github-actions-test\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
